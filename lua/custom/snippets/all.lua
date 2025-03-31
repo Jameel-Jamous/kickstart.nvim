@@ -1,0 +1,4 @@
+-- This is just a test snippet example that i made
+-- return {
+-- s('lrreq', fmt("local {} = require('{}')", { i(1, 'default'), rep(1) })),
+-- }
